@@ -2,31 +2,31 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 // Apikey 
-global.apikeys = 'Apikeylu'
+global.apikeys = 'lcKsagwFqO'
 // Note: Kalau Lu Gada Apikeynya Daftar Dulu Biar Semua Fiturnya Aktif, Webnya Di Bawah Ya
 // • https://api.xyroinee.xyz
 
 // Info Owner
-global.owner = ['6285760451683']
-global.nomorown = "6285760451683"
-global.ownername = "Xyroınee-ID."
-global.ownerNumber = ["6285760451683@s.whatsapp.net"]
-global.creator = "6285760451683@s.whatsapp.net"
-global.author = "Clara - MD"
+global.owner = ['6281230690468']
+global.nomorown = "6281230690468"
+global.ownername = "xFaisal-ID."
+global.ownerNumber = ["6281230690468@s.whatsapp.net"]
+global.creator = "6281230690468@s.whatsapp.net"
+global.author = "xBot - MD"
 global.location = "Indonesia"
 
 //Bot Setting
-global.botname = "Clara - MD"
-global.wm = "Follow Instagram: danilelistz02"
-global.packname = "Sticker By"
+global.botname = "xBot - MD"
+global.wm = "Follow Instagram: xf4isal"
+global.packname = "xBot-xFaisal"
 global.prefa = ['','!','.','#','&','`']
 global.hituet = 0
 
 // Social Media
-global.yt = "https://www.youtube.com/@Xyroinee"
-global.gh = "https://github.com/Xyroinee"
-global.ig = "https://instagram.com/danilelistz02"
-global.fb = "https://facebook.com/danilelistz19"
+global.yt = "https://www.youtube.com/@xf4isal"
+global.gh = "https://github.com/xf4isal"
+global.ig = "https://instagram.com/xf4isal"
+global.fb = "https://facebook.com/xf4isal"
 global.web = "https://api.xyroinee.xyz"
 global.gcwa = "https://chat.whatsapp.com/LAWdMIQri9SKee5kqmISH0"
 
